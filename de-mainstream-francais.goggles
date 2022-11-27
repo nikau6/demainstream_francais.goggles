@@ -1,0 +1,21 @@
+! name: De-Mainstream-Francais.goggles
+! description: Enleve des resultats tous les sites main-stream francais
+! public: true
+! author: nikau6
+
+
+$discard,site=lemonde.fr
+$discard,site=liberation.fr
+$discard,site=lepoint.fr
+$discard,site=leparisien.fr
+$discard,site=rtl.fr
+
+$boost=2,site=rt.com
+$boost=2,site=egaliteetreconciliation.fr
+$boost=2,site=reseauinternational.net
+$boost=2,site=sputniknews.com
+
+$boost=3,site=rumble.com
+$boost=3,site=bitchute.com
+$boost=3,site=odysee.com
+
