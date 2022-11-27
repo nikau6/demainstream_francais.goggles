@@ -9,13 +9,39 @@ $discard,site=liberation.fr
 $discard,site=lepoint.fr
 $discard,site=leparisien.fr
 $discard,site=rtl.fr
+$discard,site=europe1.fr
+$discard,site=france24.com
+$discard,site=tf1info.fr
+$discard,site=lefigaro.fr
+$discard,site=l-express.ca
+$discard,site=assemblee-nationale.fr
+$discard,site=rfi.fr
+$discard,site=gala.fr
+$discard,site=ouest-france.fr
+$discard,site=lexpress.fr
+$discard,site=cnews.fr
+$discard,site=francetvinfo.fr
+$discard,site=information.tv5monde.com
+$discard,site=slate.fr
+$discard,site=radiofrance.fr
+$discard,site=sciencespo.fr
+$discard,site=cairn.info
+$discard,site=tvanouvelles.ca
+$discard,site=cesoirtv.com
+$discard,site=francebleu.fr
+$discard,site=la-croix.com
+$discard,site=franceinter.fr
+$discard,site=franceculture.fr
+$discard,site=ladepeche.fr
+$discard,site=20minutes.fr
+$discard,site=nicematin.com
+$discard,site=sudouest.fr
+$discard,site=midilibre.fr
+$discard,site=rts.ch
+$discard,site=lesechos.fr
+$discard,site=ici.radio-canada.ca
+$discard,site=bfmtv.com
 
-$boost=2,site=rt.com
-$boost=2,site=egaliteetreconciliation.fr
-$boost=2,site=reseauinternational.net
-$boost=2,site=sputniknews.com
 
-$boost=3,site=rumble.com
-$boost=3,site=bitchute.com
-$boost=3,site=odysee.com
+
 
